@@ -1,2 +1,3 @@
 # Knight-s-Tour-Problem
-Knight-s-Tour-Problem
+
+  I did this project to produce a solution for 'Knight's Tour Problem' in 'Artificial Intelligence' course using Java. In this project, I transformed a real-world problem into a search problem. Then, I used 3 different search algorithms for this search problem: "Bread First Search (BFS)", "Depth First Search (DFS)" and "Heuristic Depth First Search". I didn’t solve the problem with DFS because the solution is the tree at the bottom of the tree when we create a solution tree for this problem. BFS was insufficient in large-scale tree structures. That's why, I have used ' Heuristic Depth First Search' algorithm, which searches more intelligently.
